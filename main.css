@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#newcolor
+{
+    background: rgb(24, 28, 46);
+}
+
+#section-five-bg
+{
+    background: rgb(30, 110, 195);
+
+}
